@@ -1,0 +1,22 @@
+wa-site-final-custo-zero/
+  .htaccess
+  README.md
+  favicon.svg
+  index.html
+  robots.txt
+  sitemap.xml
+  assets/
+    img/
+      bloco-14-19-39.webp
+      canaleta-09-19-39.webp
+      canaleta-14-19-39.webp
+      cartao-antigo-referencia.webp
+      estoque-blocos-close.webp
+      estoque-blocos-vertical.webp
+      hero-wa-blocos.webp
+      logo-wa-fabrica-blocos.webp
+      patio-producao-blocos.webp
+    css/
+      style.css
+    js/
+      main.js
